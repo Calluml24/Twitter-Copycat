@@ -1,0 +1,150 @@
+html,body {
+	height: 100%;
+	/*background-color: #e6ccff !important;*/
+	background-image: url("background.png");
+}
+
+.taglinks {
+	color: white;
+}
+
+.sidebarText {
+
+	color: white;
+}
+
+.navbar {
+	background-color: #bf80ff !important;
+	border-bottom: 1px solid black;
+}
+
+.logo {
+	color: white !important;
+}
+
+#navbarDropdown {
+	color: white !important;
+}
+
+.dropdown-menu {
+	background-color: #bf80ff;
+}
+
+.dropdown-item {
+	color: white;
+}
+
+.dropdown-item:hover {
+	background-color: #bf80ff !important;	
+	background-image: none;
+}
+
+.searchbtn {
+	background-color: #e6ccff !important;
+}
+
+.main {
+	/*background-color: #e6ccff !important;*/
+	background-image: url("background.png");
+}
+
+.modalrow {
+	/*background-color: #e6ccff !important;*/
+	background-image: url("background.png");
+}
+
+.modalbtn {
+	background-color: #bf80ff !important;
+	color: white !important;
+	border: 1px solid black;
+	width: 100%;
+	white-space: normal;
+}
+
+.posttext {
+	width: 90%;
+	height: 50%;
+	border: 1px solid black;
+}
+
+.postbtn {
+	width: 50%;
+	background-color: #bf80ff !important;
+	color: white !important;
+	border: 1px solid black;
+}
+
+.commentbtn {
+	background-color: #bf80ff !important;
+	color: white !important;
+	border: 1px solid black;
+}
+
+.commenttext {
+	width: 70%;
+	margin-right: 5px;
+}
+
+.modal-header {
+	text-align: center;
+}
+
+.card {
+	max-width: 40%;
+	border: 1px solid black;
+}
+
+.posts {
+	text-align: center;
+}
+
+.posterPic {
+	height: 60px;
+	border-radius: 50%;
+}
+
+.postTime {
+	text-align: left;
+}
+
+.commentPic {
+	height: 30px;
+	border-radius: 50%;
+}
+
+.regbtn {
+	width: 50%;
+	background-color: #bf80ff !important;
+	color: white !important;
+	border: 1px solid black;
+}
+
+.profilepic {
+	border-radius: 50%;
+}
+
+.profilepicbtn {
+	background-color: #bf80ff !important;
+	color: white !important;
+	border: 1px solid black;
+}
+
+.profilepicbtn:hover {
+	background-color: #bf80ff !important;	
+}
+
+.profileinfobtn {
+	background-color: #bf80ff !important;
+	color: white !important;
+	border: 1px solid black;
+}
+
+.profileinfobtn:hover {
+	background-color: #bf80ff !important;	
+}
+
+.allpostsbtn {
+	background-color: #bf80ff !important;
+	color: white !important;
+	border: 1px solid black;
+}
